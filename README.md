@@ -15,7 +15,7 @@ A simple Windows Forms banking system built in **C#** as part of a final exam pr
 
 - C#
 - Windows Forms (.NET Framework)
-- Visual Studio Code
+- Visual Studio
 
 ## What I Learned
 
